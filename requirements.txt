@@ -1,0 +1,8 @@
+torch
+faiss-cpu
+sentence-transformers
+transformers
+bitsandbytes
+accelerate
+pypdf
+python-docx
